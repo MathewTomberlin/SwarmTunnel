@@ -1,6 +1,6 @@
 # SwarmTunnel
 
-SwarmTunnel is a tool that automatically installs and configures SwarmUI with Cloudflare Tunnel for easy remote access to your SwarmUI instance. It provides a seamless way to get SwarmUI running with secure remote access via Cloudflare's Quick Tunnel service.
+SwarmTunnel is a tool that installs and configures SwarmUI with Cloudflare Tunnel for easy remote access to your SwarmUI instance. It provides a seamless way to get SwarmUI running with secure remote access via Cloudflare's Quick Tunnel service.
 
 ## 🚀 Quick Start
 
@@ -96,7 +96,6 @@ start.bat
 - ✅ Opens cloudflared tunnel in a separate PowerShell window
 - ✅ Automatically detects existing SwarmUI installations
 - ✅ Provides local and tunnel URLs
-- ✅ Graceful shutdown with Ctrl+C
 
 ### Method 2: Python Script (Cross-Platform)
 
