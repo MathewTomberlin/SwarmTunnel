@@ -8,7 +8,7 @@ SwarmTunnel is a tool that installs and configures SwarmUI with Cloudflare Tunne
 
 1. **Download** the SwarmTunnel files to a directory
 2. **Double-click** `install.bat` to start the installer
-3. **Follow** the prompts in the new terminal window
+3. **Install** SwarmUI via the browser and follow any terminal prompts
 4. **Double-click** `start.bat` to launch SwarmUI with Quick Tunnel
 
 ### Linux and macOS Users
